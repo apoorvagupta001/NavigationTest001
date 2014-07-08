@@ -1,0 +1,18 @@
+<!-- <Alloy>
+	<View layout="vertical">
+		<Label>Home</Label>
+		 <Button id="prescriptions" onClick="prescriptionsClick" title="Prescriptions"></Button>
+		<!-- <Button id="doctors" onClick="doctorsClick()" title="Doctors"></Button>
+		<Button id="stores" onClick="storesClick()" title="Stores"></Button>
+		<Button id="accounts" onClick="accountsClick()" title="Accounts"></Button>	 -->
+		<!-- <View id="menuContainer"/>	 -->
+
+	<Alloy>
+	<View class="container">
+		<Label id="label" onClick="nextWindow"></Label>
+		<View id="menuContainer"/>
+			
+		
+		
+	</View>
+</Alloy>

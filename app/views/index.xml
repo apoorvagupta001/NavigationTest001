@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="rootWindow"> 
+	<View id="masterContainer" />
+		
+	</Window>
+</Alloy>

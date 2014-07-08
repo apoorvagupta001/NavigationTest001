@@ -1,0 +1,12 @@
+
+".container" : {
+ width: Ti.UI.FILL
+}
+"#menuContainer" :{
+	width:280,
+	layout:"horizontal",
+	top:"40%"
+}
+"#label":{
+	top:"20%"
+}

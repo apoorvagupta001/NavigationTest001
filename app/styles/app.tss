@@ -1,0 +1,13 @@
+"Label":{
+	height:Ti.UI.SIZE,
+	width:Ti.UI.SIZE	
+}
+
+".container":{
+	
+}
+
+"#label":{
+	borderColour:Alloy.CFG.defaults.colors.borderColor
+}
+

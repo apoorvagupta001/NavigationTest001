@@ -1,0 +1,8 @@
+<Alloy>
+	
+	<View class="container" layout="vertical">
+		<Label id="label" onClick="nextWindow">PrescriptionOne</Label>
+		<Button id="button" onClick="backClick" />
+	</View>
+	
+</Alloy>
